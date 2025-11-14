@@ -2,14 +2,13 @@
 
 **Project Status:** In Progress
 
-**Current Phase:** Phase 2: Core Functionality - Data Collection and Presentation
+**Current Phase:** Phase 3: Styling and Deployment
 
-**Last Completed Task:** Task 2.4: Implement HTML Generation
-    - Created a script to generate an HTML file from CSV data.
-    - Added unit tests to verify the correctness of the generated HTML.
+**Last Completed Task:** Task 3.1: Style the Performance Table
+    - Created a `style.css` file with basic styling for the HTML table.
 
-**Next Action Needed:** Begin Task 3.1: Style the Performance Table.
+**Next Action Needed:** Begin Task 3.2: Configure GitHub Pages.
 
 **Blockers:** None.
 
-**Session Notes:** Successfully implemented the HTML generation logic using a TDD approach.
+**Session Notes:** Successfully styled the performance table.
