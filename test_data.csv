@@ -1,0 +1,4 @@
+Benchmark,Gemini,Model A,Model B
+SWE-Bench,85.2,83.1,80.5
+HumanEval,92.1,90.5,88.9
+MBPP,75.4,72.3,70.1
